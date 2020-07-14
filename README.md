@@ -1,5 +1,5 @@
 # Homework-Matlab
-## 01-simple-math
+## 01-simple-math простые вычисления
 ## 02-matrix 
 ## 03-graphics 
 ## 04-string
